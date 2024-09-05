@@ -1,0 +1,101 @@
+Symbol;Name;Avg Daily Share Volume (3mo);AUM
+SQQQ;ProShares UltraPro Short QQQ;158,813,703;$2,488,540.00
+SOXL;Direxion Daily Semiconductor Bull 3x Shares;79,491,563;$11,243,800.00
+TQQQ;ProShares UltraPro QQQ;56,443,504;$22,010,700.00
+SOXS;Direxion Daily Semiconductor Bear 3x Shares;55,026,813;$730,773.00
+SPY;SPDR S&P 500 ETF Trust;50,509,516;$560,621,000.00
+TSLL;Direxion Daily TSLA Bull 2X Shares;48,321,805;$1,523,710.00
+SPXS;Direxion Daily S&P 500 Bear 3X Shares;41,254,539;$425,065.00
+NVD;GraniteShares 2x Short NVDA Daily ETF;37,443,270;$75,734.40
+XLF;Financial Select Sector SPDR Fund;37,022,914;$45,484,900.00
+TLT;iShares 20+ Year Treasury Bond ETF;36,461,793;$62,604,200.00
+QQQ;Invesco QQQ Trust Series I;36,027,902;$284,838,000.00
+HYG;iShares iBoxx $ High Yield Corporate Bond ETF;34,897,605;$16,902,500.00
+IWM;iShares Russell 2000 ETF;32,209,561;$70,366,500.00
+FXI;iShares China Large-Cap ETF;31,012,047;$3,943,100.00
+SH;ProShares Short S&P500;26,858,480;$936,859.00
+IBIT;iShares Bitcoin Trust ETF;26,853,064;$21,218,400.00
+EEM;iShares MSCI Emerging Markets ETF;26,519,236;$17,634,500.00
+LQD;iShares iBoxx $ Investment Grade Corporate Bond ETF;24,570,885;$31,937,800.00
+NVDL;GraniteShares 2x Long NVDA Daily ETF;24,495,764;$4,851,560.00
+TZA;Direxion Daily Small Cap Bear 3X Shares;23,626,279;$340,845.00
+EWZ;iShares MSCI Brazil ETF;22,592,424;$4,101,160.00
+TNA;Direxion Daily Small Cap Bull 3X Shares;20,735,404;$2,615,500.00
+GDX;VanEck Gold Miners ETF;18,676,426;$14,624,100.00
+SLV;iShares Silver Trust;18,270,697;$13,736,200.00
+SDOW;ProShares UltraPro Short Dow30;16,370,236;$303,133.00
+KWEB;KraneShares CSI China Internet ETF;15,323,354;$4,101,440.00
+LABD;Direxion Daily S&P Biotech Bear 3x Shares;15,309,448;$101,822.00
+KRE;SPDR S&P Regional Banking ETF;15,246,752;$3,414,570.00
+TECS;Direxion Daily Technology Bear 3X Shares;14,595,058;$104,770.00
+BKLN;Invesco Senior Loan ETF;14,473,542;$6,758,830.00
+XLE;Energy Select Sector SPDR Fund;13,359,625;$37,328,000.00
+EFA;iShares MSCI EAFE ETF;12,606,469;$57,775,500.00
+NVDQ;T-Rex 2X Inverse NVIDIA Daily Target ETF;12,004,885;$58,202.80
+DUST;Direxion Daily Gold Miners Index Bear 2x Shares;11,953,055;$94,046.70
+BOIL;ProShares Ultra Bloomberg Natural Gas;11,450,547;$608,554.00
+SDS;ProShares UltraShort S&P500;11,448,406;$449,491.00
+UVIX;2x Long VIX Futures ETF;11,318,188;$108,690.00
+XLP;Consumer Staples Select Sector SPDR Fund;9,987,810;$17,003,700.00
+XLU;Utilities Select Sector SPDR Fund;9,972,350;$17,184,500.00
+UVXY;ProShares Ultra VIX Short-Term Futures ETF;9,927,080;$285,007.00
+NVDX;T-Rex 2X Long NVIDIA Daily Target ETF;9,267,323;$631,673.00
+SMH;VanEck Semiconductor ETF;8,996,352;$22,514,700.00
+XLI;Industrial Select Sector SPDR Fund;8,991,690;$19,656,300.00
+MSOS;AdvisorShares Pure US Cannabis ETF;8,876,969;$766,165.00
+BITO;ProShares Bitcoin Strategy ETF;8,751,606;$1,744,820.00
+VWO;Vanguard FTSE Emerging Markets ETF;8,725,067;$78,551,500.00
+SPXU;ProShares UltraPro Short S&P500;8,626,484;$521,816.00
+IEMG;iShares Core MSCI Emerging Markets ETF;8,545,979;$80,037,000.00
+USHY;iShares Broad USD High Yield Corporate Bond ETF;8,256,349;$17,179,800.00
+VEA;Vanguard FTSE Developed Markets ETF;8,076,281;$141,284,000.00
+XBI;SPDR S&P Biotech ETF;7,882,104;$8,035,000.00
+ARKK;ARK Innovation ETF;7,857,106;$5,647,050.00
+TSLT;T-REX 2X Long Tesla Daily Target ETF;7,569,729;$295,667.00
+IJH;iShares Core S&P Mid-Cap ETF;7,534,936;$88,993,900.00
+QID;ProShares UltraShort QQQ;7,508,063;$240,840.00
+TMF;Direxion Daily 20+ Year Treasury Bull 3X Shares;7,412,800;$6,580,130.00
+BIL;SPDR Bloomberg 1-3 Month T-Bill ETF;7,277,474;$34,440,100.00
+IEFA;iShares Core MSCI EAFE ETF;7,053,911;$123,709,000.00
+AGG;iShares Core U.S. Aggregate Bond ETF;6,908,750;$117,176,000.00
+BITX;2x Bitcoin Strategy ETF;6,884,819;$1,489,080.00
+XLV;Health Care Select Sector SPDR Fund;6,858,906;$42,177,400.00
+BITI;ProShares Short Bitcoin Strategy ETF;6,709,080;$61,479.50
+EWJ;iShares MSCI Japan ETF;6,660,864;$15,606,600.00
+RSP;Invesco S&P 500® Equal Weight ETF;6,309,663;$61,450,600.00
+GLD;SPDR Gold Shares;6,267,955;$69,825,000.00
+IEF;iShares 7-10 Year Treasury Bond ETF;6,250,783;$31,849,800.00
+UNG;United States Natural Gas Fund LP;6,140,659;$800,897.00
+VIXY;ProShares VIX Short-Term Futures ETF;6,120,892;$130,399.00
+VXX;iPath Series B S&P 500 VIX Short-Term Futures ETN;5,848,714;$239,493.00
+SPLG;SPDR Portfolio S&P 500 ETF;5,757,876;$43,917,300.00
+EMB;iShares J.P. Morgan USD Emerging Markets Bond ETF;5,728,347;$15,877,800.00
+QYLD;Global X NASDAQ 100 Covered Call ETF;5,683,828;$7,962,960.00
+BND;Vanguard Total Bond Market ETF;5,638,144;$114,894,000.00
+FBTC;Fidelity Wise Origin Bitcoin Fund;5,626,814;$10,588,400.00
+XLRE;Real Estate Select Sector SPDR Fund;5,606,817;$7,588,230.00
+XLK;Technology Select Sector SPDR Fund;5,497,396;$68,428,100.00
+GOVT;iShares U.S. Treasury Bond ETF;5,420,595;$27,794,300.00
+VCIT;Vanguard Intermediate-Term Corporate Bond ETF;5,348,100;$50,709,100.00
+YANG;Direxion Daily FTSE China Bear 3X Shares;5,343,626;$118,286.00
+IAU;iShares Gold Trust;5,203,319;$29,692,300.00
+TSLZ;T-Rex 2X Inverse Tesla Daily Target ETF;5,034,048;$33,655.80
+VOO;Vanguard S&P 500 ETF;4,970,231;$503,227,000.00
+TWM;ProShares UltraShort Russell2000;4,948,642;$42,550.60
+INDA;iShares MSCI India ETF;4,839,250;$11,449,800.00
+IYR;iShares U.S. Real Estate ETF;4,821,411;$4,516,170.00
+PSLV;The Sprott Physical Silver Trust;4,735,888;N/A
+UPRO;ProShares UltraPro S&P500;4,635,333;$3,698,690.00
+ETHE;Grayscale Ethereum Trust (ETH);4,635,148;$4,570,160.00
+GBTC;Grayscale Bitcoin Trust;4,633,300;$13,443,100.00
+XRT;SPDR S&P Retail ETF;4,627,036;$259,034.00
+SGOV;iShares 0-3 Month Treasury Bond ETF;4,620,858;$25,034,600.00
+GDXJ;VanEck Junior Gold Miners ETF;4,554,783;$5,308,350.00
+IVV;iShares Core S&P 500 ETF;4,498,547;$516,347,000.00
+XLC;Communication Services Select Sector SPDR Fund;4,322,308;$18,097,100.00
+SPXL;Direxion Daily S&P 500 Bull 3X Shares;4,319,186;$4,407,450.00
+SRLN;SPDR Blackstone Senior Loan ETF;4,299,802;$6,103,140.00
+USFR;WisdomTree Floating Rate Treasury Fund;4,272,352;$17,224,300.00
+XLB;Materials Select Sector SPDR Fund;4,194,306;$5,580,070.00
+SPTL;SPDR Portfolio Long Term Treasury ETF;4,079,966;$11,358,800.00
+IGV;iShares Expanded Tech-Software Sector ETF;4,060,359;$6,361,520.00
